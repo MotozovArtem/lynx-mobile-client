@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ChatListUserNameTextSize">26sp</dimen>
+    <dimen name="ChatListMessageTextTextSize">20sp</dimen>
+    <dimen name="ChatMessageTimeTextSize">12sp</dimen>
+    <dimen name="ChatMessageCardBorderRadius">12sp</dimen>
+    <dimen name="ChatMessageCardElevation">12sp</dimen>
+    <dimen name="ChatMessageCardPadding">5dp</dimen>
+    <dimen name="ChatMessageTimeMarginLeftRight">5dp</dimen>
+    <dimen name="ChatMessageMaxWidthPercent">0.6</dimen>
+    <dimen name="ChatMessageCardMinWidth">110dp</dimen>
+</resources>

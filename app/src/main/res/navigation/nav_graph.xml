@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/nav_graph"
+        app:startDestination="@id/userFragment">
+    <fragment
+            android:id="@+id/userFragment"
+            android:name="org.lynx.client.ui.activity.app.UserFragment"
+            android:label="UserFragment" />
+    <fragment
+            android:id="@+id/chatFragment"
+            android:name="org.lynx.client.ui.activity.app.ChatListFragment"
+            android:label="ChatFragment" />
+    <fragment
+            android:id="@+id/settingsFragment"
+            android:name="org.lynx.client.ui.activity.app.SettingsFragment"
+            android:label="SettingsFragment" />
+
+</navigation>

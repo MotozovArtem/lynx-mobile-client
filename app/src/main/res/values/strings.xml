@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Lynx</string>
+
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="authorization">Authorization</string>
+    <string name="authShort">Auth</string>
+    <string name="server">Server</string>
+    <string name="peer_stock">PeerStock</string>
+    <string name="online">Online</string>
+    <string name="all">All</string>
+    <string name="register">Register</string>
+    <string name="unread">Unread</string>
+    <string name="networkError">Network error! Check your network connection</string>
+    <string name="username">Username</string>
+    <string name="domain">Domain</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chat">Chat</string>
+    <string name="users">Users</string>
+    <string name="settings">Settings</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="messageText">Message Text</string>
+    <string name="sendMessage">Send message</string>
+    <string name="attachFile">Attach file</string>
+    <string name="message">Message</string>
+    <string name="returnLabel">Return</string>
+    <string name="stub_message_date">January 1</string>
+    <string name="stub_message_time">12:00</string>
+    <string name="user_icon">User icon</string>
+    <string name="failedKeyExchangeMessageToast">Failed key exchange. Message will not be sent</string>
+
+</resources>
